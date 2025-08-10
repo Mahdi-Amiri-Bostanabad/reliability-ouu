@@ -47,17 +47,3 @@ If you mirror this work, please cite (see **Citation** below).
 - **Reliability targets**: structural \(p_f \le 10^{-4}\) ⇒ \(\beta \approx 3.719\); energy \(p_f \le 10^{-3}\) ⇒ \(\beta \approx 3.090\).
 
 ---
-
-## Quickstart
-
-### 1) Python environment
-
-```bash
-# Option A: pip + venv
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-
-# Option B: conda
-conda env create -f environment.yml
-conda activate uav-ouu
