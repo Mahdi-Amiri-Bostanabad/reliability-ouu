@@ -4,7 +4,6 @@ Final Project of the Reliability Analysis and Risk Assessment (AE45-788) course 
 # A Probabilistic Optimization Approach to Reliability and Safety Assessment of Urban Air Mobility Vehicles
 
 > **Deterministic sizing → Reliability (FORM/SORM, DS, IS) → SORA (OUU) → Epistemic UQ (Sobol)**  
-> Reproducible modeling pipeline for a quadrotor delivering a 2 kg payload over 50 km.
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](#)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2021a%2B-orange.svg)](#)
