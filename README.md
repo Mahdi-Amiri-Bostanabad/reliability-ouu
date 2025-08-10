@@ -1,7 +1,7 @@
 # reliability-ouu
 Final Project of the Reliability Analysis and Risk Assessment (AE45-788) course - Spring 2024
 
-# Quadrotor Reliability & Optimization Under Uncertainty (UAV/VTOL)
+# A Probabilistic Optimization Approach to Reliability and Safety Assessment of Urban Air Mobility Vehicles
 
 > **Deterministic sizing → Reliability (FORM/SORM, DS, IS) → SORA (OUU) → Epistemic UQ (Sobol)**  
 > Reproducible modeling pipeline for a quadrotor delivering a 2 kg payload over 50 km.
